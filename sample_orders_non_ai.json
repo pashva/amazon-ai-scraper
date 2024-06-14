@@ -1,0 +1,47 @@
+[
+  {
+    "order_date": "9 June 2024",
+    "order_price": "Rs 599.00",
+    "order_id": "407-7811805-4273922",
+    "delivery_status": "Delivered Monday",
+    "items": "Amazon Basics Plastic 3 Layer Slim Storage Organizer Rack With Wheels (White, Standard)",
+    "ship_to": "Aashi",
+    "replace_or_return": "Return eligible through 20-Jun-2024"
+  },
+  {
+    "order_date": "9 June 2024",
+    "order_price": "Rs 399.00",
+    "order_id": "407-7533800-9871518",
+    "delivery_status": "Delivered today",
+    "items": "PHILOSHOP Raxon World Book Shelf, Book Shelf for Home Library, Portable Book Shelf, Stand 4 Layer Plastic Rack",
+    "ship_to": "Aashi",
+    "replace_or_return": "Replacement may be possible through 24-Jun-2024"
+  },
+  {
+    "order_date": "9 June 2024",
+    "order_price": "Rs 449.00",
+    "order_id": "408-1824263-1685124",
+    "delivery_status": "Delivered Monday",
+    "items": "Amazon Basics Hair Dryer 1000 Watts With 2 Heat/Speed Settings-Compact & Foldable|Black",
+    "ship_to": "Aashi",
+    "replace_or_return": "Replacement may be possible through 17-Jun-2024"
+  },
+  {
+    "order_date": "31 May 2024",
+    "order_price": "Rs 498.00",
+    "order_id": "408-0903447-8410766",
+    "delivery_status": "Delivered 01-Jun-2024",
+    "items": "GLUN® Electronic Portable Digital LED Screen Luggage Weighing Scale, 50 kg/110 Lb For Multi-Purpose Use.",
+    "ship_to": "Ankur Mehta",
+    "replace_or_return": "Return window closed on 08-Jun-2024"
+  },
+  {
+    "order_date": "23 May 2024",
+    "order_price": "Rs 220.00",
+    "order_id": "408-6737362-6677126",
+    "delivery_status": "Delivered 25-May-2024",
+    "items": "Gala Double Lip Wiper (Multicolour)",
+    "ship_to": "Ankur Mehta",
+    "replace_or_return": "Return window closed on 04-Jun-2024"
+  }
+]
